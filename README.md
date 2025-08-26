@@ -1,6 +1,7 @@
 # 含羞草研究所在线官网发布页代码及功能介绍
 
-为了构建一个带有**SEO优化功能、动画效果、弹窗公告、网址展示、邮箱展示**的**含羞草研究所**官网页面，下面提供了一个完整的HTML页面示例，并加上了五个有趣的板块和功能。你可以根据需求进一步修改和优化内容。
+为了构建一个带有**SEO优化功能、动画效果、弹窗公告、网址展示、邮箱展示**的**含羞草研究所**官网页面，下面提供了一个完整的HTML页面示例，并加上了五个有趣的板块和功能。你可以根据需求进一步修改和优化内容。<br>
+欢迎大家留言讨论，或者发送邮件都可以，我会用心为大家解决你遇到的优化困难 buliangyanjiusuo@gmail.com
 
 ### 功能要求：
 1. **SEO功能完整**：包含meta标签，描述和关键词。
@@ -211,7 +212,7 @@
 
     <!-- 页脚 -->
     <div class="footer">
-        <p>联系方式：<a href="buliangyanjiusuo@proton.me">buliangyanjiusuo@proton.me</a></p>
+        <p>联系方式：<a href="buliangyanjiusuo@gmail.com">buliangyanjiusuo@gmail.com</a></p>
         <p>© 2024 含羞草研究所 - All Rights Reserved</p>
     </div>
 
